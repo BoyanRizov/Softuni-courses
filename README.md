@@ -1,2 +1,4 @@
 # Softuni-courses
-Courses from my education @ Softuni.
+
+
+This is a demo for softwere QA courses@ Softuni.
